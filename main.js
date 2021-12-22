@@ -22,3 +22,17 @@
 // }
 
 // alert(result);
+
+// Task2
+
+// number1 = +prompt ("Enter one number: ");
+// number2 = +prompt ("Enter two number: ");
+
+// if (number1 > number2) {
+//     console.log(`Good + ${number1}`);
+// }
+// else {
+//     if (number2 > number1) {
+//         console.log(`Good ${number2}`);
+//     }
+// }
